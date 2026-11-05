@@ -18,5 +18,5 @@ Phiên bản portfolio cá nhân phục vụ môn Thiết kế web và Triển k
 
 ### Tài liệu
 
-- [README](./README.md)
+- [README](../README.md)
 - [AI Log](./AI_LOG.md)
