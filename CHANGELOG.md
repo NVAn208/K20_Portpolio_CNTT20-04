@@ -1,23 +1,27 @@
 # Lịch sử thay đổi
 
-Các thay đổi đáng chú ý của repository được ghi tại đây.
+Nâng cấp từ V& lên V8
 
-## [Unreleased]
+## [V8 - 4/11/2026]
 
 ### Thêm mới
 
-- [Ghi các thay đổi chưa phát hành]
+- Thay đổi: thêm README có URL demo và hướng dẫn mở; đổi thư mục Images thành 
+images;
+ sửa đường dẫn CSS từ /css/styles.css thành css/styles.css.
+- Chưa kiểm tra: hiển thị trên iPhone.
 
 ### Thay đổi
 
-- [Ghi các nội dung được cập nhật]
+- Tạo thêm thư mục docs
 
 ### Sửa lỗi
 
-- [Ghi các lỗi đã khắc phục]
+- Ảnh không hiển thị
 
 ## [v7] - Buổi 7
 
 ### Thêm mới
 
-- [Bổ sung nội dung của Buổi 7]
+- Thêm AI_LOG.md
+- Thêm READNE.md

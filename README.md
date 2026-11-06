@@ -1,6 +1,7 @@
 # Portfolio cá nhân
 
-Website CV cá nhân phục vụ môn Thiết kế web và Triển khai hệ thống phần mềm.
+Website giới thiệu bản thân và 3 dự án học tập, dành cho nhà tuyển 
+dụng thực tập.
 
 ## Chạy dự án
 
@@ -32,3 +33,13 @@ Website CV cá nhân phục vụ môn Thiết kế web và Triển khai hệ th�
 Lưu các tệp minh chứng trong `docs/evidence/` và cập nhật danh mục trong `docs/evidence-index.md`.
 
 Form liên hệ chỉ dùng để thực hành kiểm tra dữ liệu HTML5; biểu mẫu không gửi email hoặc lưu dữ liệu lên máy chủ.
+## Demo 
+https://github.com/NVAn208/K20_Portpolio_CNTT20-04.git
+## Các bước mở
+1. Mở trình duyệt (Chrome hoặc Edge), dán URL ở mục Demo vào thanh địa chỉ rồi nhấn Enter.
+2. Chờ trang tải xong, trang chủ hiển thị tên "Nguyễn Văn An" và thanh menu ở trên cùng.
+3. Bấm menu **Giới thiệu** để xem thông tin cá nhân.
+4. Bấm menu **Kỹ năng** để xem danh sách kỹ năng.
+5. Bấm menu **Dự án** để xem các dự án học tập.
+6. Bấm menu **Học tập** để xem quá trình học.
+7. Bấm menu **Liên hệ** để xem thông tin liên hệ ở cuối trang.
